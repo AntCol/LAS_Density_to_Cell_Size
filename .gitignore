@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+density_analysis.log
+density_summary.csv
+density_summary.md
